@@ -22,7 +22,10 @@ services:
     environment:
       - WORDPRESS_DB_HOST=db
       - WORDPRESS_DB_USER=vamsi
-      - WORDPRESS_DB_PASSWORD=Vamsi@123
+      - WORDPRESS_DB_PASSWORD=Vamsi123
       - WORDPRESS_DB_NAME=wordpress
 volumes:
   db_data:
+
+  
+    
